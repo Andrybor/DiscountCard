@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCard", "DiscountCard\DiscountCard.csproj", "{B4ADEB8E-93CF-4165-9384-92DC3446B6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCard.Tests", "DiscountCard.Tests\DiscountCard.Tests.csproj", "{03DBE5F3-1BD4-4CFB-B572-8A2056850B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ADEB8E-93CF-4165-9384-92DC3446B6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ADEB8E-93CF-4165-9384-92DC3446B6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ADEB8E-93CF-4165-9384-92DC3446B6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ADEB8E-93CF-4165-9384-92DC3446B6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DBE5F3-1BD4-4CFB-B572-8A2056850B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DBE5F3-1BD4-4CFB-B572-8A2056850B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DBE5F3-1BD4-4CFB-B572-8A2056850B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DBE5F3-1BD4-4CFB-B572-8A2056850B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A147FF73-279C-4FFD-A49F-0F4DDE1029B7}
+	EndGlobalSection
+EndGlobal
